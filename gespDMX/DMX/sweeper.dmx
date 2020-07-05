@@ -1,0 +1,27 @@
+send 6 255
+send 36 0
+send 1 125
+send 8 200
+wait 100
+send 8 0
+send 12 200
+wait 100
+send 12 0
+send 16 200
+wait 100
+send 16 0
+send 20 200
+wait 100
+send 20 0
+send 24 200
+wait 100
+send 24 0
+send 28 200
+wait 100
+send 28 0
+send 32 200
+wait 100
+send 32 0
+send 1 190
+send 36 200
+wait 99

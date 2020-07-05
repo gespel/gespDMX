@@ -1,0 +1,39 @@
+send 42 0
+send 40 25
+wait 100
+send 42 25
+send 40 0
+wait 100
+send 42 0
+wait 500
+send 40 25
+wait 100
+send 42 25
+send 40 0
+wait 100
+send 42 0
+wait 500
+send 42 0
+send 40 25
+wait 100
+send 42 25
+send 40 0
+wait 100
+send 42 0
+wait 500
+send 42 0
+send 40 25
+wait 100
+send 42 25
+send 40 0
+wait 100
+send 42 0
+wait 500
+send 40 200
+send 42 0
+wait 100
+send 42 200
+send 40 0
+wait 100
+send 42 0
+wait 500

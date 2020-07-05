@@ -1,0 +1,5 @@
+send 40 25
+send 42 50
+wait 400
+send 42 0
+wait 500

@@ -1,0 +1,40 @@
+send 1 122
+send 6 200
+send 9 200
+send 13 200
+send 17 200
+send 21 200
+wait 500
+send 9 0
+send 13 0
+send 17 0
+send 21 0
+send 25 200
+send 29 200
+send 33 200
+send 37 200
+wait 500
+send 25 0
+send 29 0
+send 33 0
+send 37 0
+send 1 60
+send 6 200
+send 9 200
+send 13 200
+send 17 200
+send 21 200
+wait 500
+send 9 0
+send 13 0
+send 17 0
+send 21 0
+send 25 200
+send 29 200
+send 33 200
+send 37 200
+wait 500
+send 25 0
+send 29 0
+send 33 0
+send 37 0

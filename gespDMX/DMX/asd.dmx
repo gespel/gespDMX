@@ -1,0 +1,4 @@
+send 10 100
+wait 100
+send 10 0
+wait 100

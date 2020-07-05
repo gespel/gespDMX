@@ -1,0 +1,331 @@
+send 1 16
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 32
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 48
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 64
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 80
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 96
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 112
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 128
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 144
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 160
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 176
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 192
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 208
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 224
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 240
+send 6 200
+send 10 200
+send 14 200
+wait 200
+send 10 0
+send 14 0
+send 18 200
+send 22 200
+wait 200
+send 18 0
+send 22 0
+send 26 200
+send 30 200
+wait 200
+send 26 0
+send 30 0
+send 34 200
+send 38 200
+wait 200
+send 34 0
+send 38 0
+send 1 255

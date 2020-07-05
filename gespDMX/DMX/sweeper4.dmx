@@ -1,0 +1,5 @@
+send 4 81
+send 6 150
+send 3 100
+send 2 78
+wait 1000

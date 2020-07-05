@@ -1,0 +1,6 @@
+send 45 255
+send 48 255
+send 49 100
+wait 1000
+send 49 200
+wait 499
